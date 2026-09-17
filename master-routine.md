@@ -99,7 +99,9 @@ investigate.
 | Mehyar | ~1 month ago | 04/16/25 |
 | Michelle Garcia | 11 days ago | 07/10/25 |
 
-_Snapshot date: 2026-04-21. "Last activity" is relative to that date._
+_Snapshot date: 2026-09-17. "Last activity" values reflect the roster
+pull on 2026-04-21 and are now ~5 months stale — refresh before relying on
+them for triage. "Created" dates are absolute and remain valid._
 
 ## How to run this workflow fresh
 
